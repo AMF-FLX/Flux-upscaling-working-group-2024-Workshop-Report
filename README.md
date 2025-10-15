@@ -9,7 +9,7 @@ The repository is organized as follows:
 
 To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
 
-Datasets used in the hands-on session can be found [here](https://drive.google.com/file/d/1WyAYDHvut789H-oEbO6Lm-ObKP1wlbM5/view?usp=sharing)
+Datasets created and used in the hands-on session can be also found [here](https://drive.google.com/file/d/1WyAYDHvut789H-oEbO6Lm-ObKP1wlbM5/view?usp=sharing)
 
 ## Workshop Organizing Committee
 Nicola Falco (Lawrence Berkeley National Laboratory)
