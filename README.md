@@ -10,7 +10,7 @@ The repository is organized as follows:
 
 To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
 
-## Organizing Committee
+## Workshop Organizing Committee
 Nicola Falco (Lawrence Berkeley National Laboratory)
 
 Koong Yi (Lawrence Berkeley National Laboratory)
@@ -26,6 +26,9 @@ Paul Stoy (Univ. of Wisconsin-Madison)
 Mallory Barnes (Indiana University)
 
 Gavin McNicol (Univ. of Illinois Chicago)
+
+## Coordinator
+Christin Buechner (Lawrence Berkeley National Laboratory)
 
 ## Tutorial Copyright Notice
 2024 Workshop - Remote Sensing and Fluxes Upscaling for Real-world Impact - Tutorial Copyright (c) 2025, The Regents of the University of California, through Lawrence Berkeley National Laboratory (subject to receipt of any required approvals from the U.S. Dept. of Energy), Battelle, through National Ecological Observatory Network (NEON), and AtmoFacts. All rights reserved.
