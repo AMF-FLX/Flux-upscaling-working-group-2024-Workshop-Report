@@ -1,8 +1,24 @@
 # Flux-upscaling-working-group-2024-Workshop-Report
 Flux upscaling working group / 2024 Workshop Report: Remote Sensing and Fluxes Upscaling for Real-world Impact
 
-## Copyright Notice 
+This repository contains materials from the workshop focused on analyzing and integrating remote sensing and flux data using Jupyter Notebooks. The workshop featured a series of presentations, which are outlined in the agenda included in this repository. 
 
+The repository is organized as follows:
+- **Jupyter Notebooks**: A collection of notebooks providing tutorials and examples for working with remote sensing and flux data, designed to be run on Google Colab.
+- **Datasets**: Sample datasets used in the workshop for hands-on exercises and demonstrations.
+- **Presentations**: Slides and supporting materials from the workshop presentations, following the agenda/schedule.
+
+To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/your-notebook.ipynb)
+
+## Hands-on tutorial Contributors
+Nicola Falco [nicolafalco@lbl.gov](nicolafalco@lbl.gov)
+
+David Durden [ddurden@battelleecology.org](ddurden@battelleecology.org)
+
+Stefan Metzger [smetzger@atmofacts.com](smetzger@atmofacts.com)
+
+## Copyright Notice 
 2024 Workshop - Remote Sensing and Fluxes Upscaling for Real-world Impact - Tutorial Copyright (c) 2025, The Regents of the University of California, through Lawrence Berkeley National Laboratory (subject to receipt of any required approvals from the U.S. Dept. of Energy), Battelle, through National Ecological Observatory Network (NEON), and AtmoFacts. All rights reserved.
 
 This software is available under the GNU Affero General Public License
@@ -18,4 +34,4 @@ Software to reproduce, distribute copies to the public, prepare derivative
 works, and perform publicly and display publicly, and to permit others to do so.
 
 ## License
-[License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/tree/main#:~:text=Last%20commit%20date-,LICENSE,-Create%20LICENSE)
+See[License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/tree/main#:~:text=Last%20commit%20date-,LICENSE,-Create%20LICENSE) file for licensing details.
