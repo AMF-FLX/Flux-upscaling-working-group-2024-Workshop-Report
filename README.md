@@ -9,7 +9,6 @@ The repository is organized as follows:
 - **Presentations**: Slides and supporting materials from the workshop presentations, following the agenda/schedule.
 
 To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/your-notebook.ipynb)
 
 ## Hands-on tutorial Contributors
 Nicola Falco [nicolafalco@lbl.gov](nicolafalco@lbl.gov)
