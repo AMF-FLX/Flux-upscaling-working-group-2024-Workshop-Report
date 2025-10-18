@@ -13,7 +13,7 @@ To run the notebooks, simply open them in Google Colab and follow the instructio
 - Datasets created and used in the hands-on session can be also found [here](https://drive.google.com/file/d/1WyAYDHvut789H-oEbO6Lm-ObKP1wlbM5/view?usp=sharing)
 - Recordings of the sessions are available on the [event](https://go.lbl.gov/vy35rp) page of the Ameriflux web portal.  
 
-## Workshop Organizing Committee
+## Workshop Steering Committee
 Nicola Falco (Lawrence Berkeley National Laboratory)
 
 Koong Yi (Lawrence Berkeley National Laboratory)
