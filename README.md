@@ -18,7 +18,7 @@ Nicola Falco (Lawrence Berkeley National Laboratory)
 
 Koong Yi (Lawrence Berkeley National Laboratory)
 
-Stefan Metzger (AtmoFacts)
+Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)
 
 David Durden (National Ecological Observatory Network)
 
