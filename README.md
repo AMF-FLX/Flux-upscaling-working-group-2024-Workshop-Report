@@ -49,4 +49,4 @@ Software to reproduce, distribute copies to the public, prepare derivative
 works, and perform publicly and display publicly, and to permit others to do so.
 
 ## Hands-on Tutorial License
-See [License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/tree/main#:~:text=Last%20commit%20date-,LICENSE,-Create%20LICENSE) file for licensing details.
+See [License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/LICENSE) file for licensing details.
