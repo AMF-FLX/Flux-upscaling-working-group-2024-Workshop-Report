@@ -4,7 +4,7 @@ Flux upscaling working group / 2024 Workshop Report: Remote Sensing and Fluxes U
 This repository contains materials from the 2024 Remote Sensing and Fluxes Upscaling for Real-world Impact workshop focused on analyzing and integrating remote sensing and flux data using Jupyter Notebooks. The workshop featured a series of presentations, which are outlined in the agenda included in this repository. 
 
 The repository is organized as follows:
-- **Jupyter Notebooks**: A collection of notebooks providing tutorials and examples for working with remote sensing and flux data, designed to be run on Google Colab.
+- **Hands-on Tutorial**: A collection of Jupyter notebooks providing tutorials and examples for working with remote sensing and flux data, designed to be run on Google Colab.
 - **Presentations**: The workshop presentations, including slides and supporting materials, are presented in accordance with the agenda. The available slides are from speakers who have granted permission to make their material publicly available. 
 
 To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
