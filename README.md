@@ -60,13 +60,13 @@ In Topic 2 of this tutorial, we will explore regional-scale connectivity by:
 See [License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/LICENSE) and [COPYRIGHT](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/COPYRIGHT) files for licensing details and copyright details.
 
 ## Topic 3: ... to continental-scale connectivity
-Creators: Danielle Losos (losos@wisc.edu), Paul Stoy (pcstoy@wisc.edu), Sophie Hoffman (shoffman22@wisc.edu), Sadegh Ranjbar (sranjbar@wisc.edu), Ryan Abernathey (ryan@earthmover.io)  
+Creators: Danielle Losos (losos@wisc.edu), Paul Stoy (pcstoy@wisc.edu), Avanti Kekane (avkekane@wisc.edu), Sophie Hoffman (shoffman22@wisc.edu), Sadegh Ranjbar (sranjbar@wisc.edu), Ryan Abernathey (ryan@earthmover.io)
 
-In Topic 3, we will scale up to continental connectivity by introducing the Baseline Imager Live Imaging of Vegetated Ecosystems (ALIVE) workflow, specifically ALIVE-GPP. This lesson will cover:
--Leveraging data from the Advanced Baseline Imager on Geostationary Operational Environmental Satellites - R Series (GOES-R) for pixels containing Ameriflux and NEON towers
--Using a machine learning model to estimate Gross Primary Productivity (GPP) at a 5-minute temporal resolution, matching the ABI CONUS scene
--Working with zarr libraries created using Arraylake by earthmover, specifically a library containing GPP estimates.
+In Topic 3, we will scale up to continental connectivity by introducing the Advanced Baseline Imager Live Imaging of Vegetated Ecosystems ([ALIVE](https://alive-abi.github.io/alive/index.html)) workflow that we call 'ALIVE<sub>GPP</sub>', also described in this [google slides presentation](https://docs.google.com/presentation/d/1PJclqluGFHkp9LpHZ85_pgL8lFLLaAMsQcEGZ2DIGSU/edit#slide=id.p1) that was created for the workshop.
 
-# Acknowledgement
-coming soon...
+The tutorial will cover:
+- How to work with [zarr](https://zarr.dev/) libraries created using [Icechunk](https://icechunk.io/en/latest/overview/#docs-organization) by [earthmover](https://earthmover.io/). We will use a zarr library that contains [Gross Primary Productivity (GPP) estimates](https://alive-abi.github.io/alive/daily-GPP.html) from the ALIVE worksflow.
+- Leveraging data from the [Advanced Baseline Imager](https://www.goes-r.gov/spacesegment/abi.html) on the [Geostationary Operational Environmental Satellites - R Series (GOES-R)](https://www.goes-r.gov/) to create ALIVE<sub>GPP</sub> for pixels that contain Ameriflux and NEON, Inc. towers as described in [Losos et al. (2024)](https://www.nature.com/articles/s41597-024-03071-z)
+- Using a machine learning model specifically a gradient boosting model described in [Ranjbar et al. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004341), to estimate GPP at the native temporal resolution of the ABI CONUS scene, every 5 minutes, as described in [Losos et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0034425725001634).
+
 
