@@ -68,4 +68,5 @@ In Topic 3, we will scale up to continental connectivity by introducing the Base
 -Working with zarr libraries created using Arraylake by earthmover, specifically a library containing GPP estimates.
 
 # Acknowledgement
+coming soon...
 
