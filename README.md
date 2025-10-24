@@ -71,7 +71,7 @@ This tutorial was developed using resources and data from various sources. If yo
 
 To acknowledge this repository, please cite it as follows:
 
-### Topic 1 and 2:
+### Topics 1 & 2:
 - Falco, Nicola, Metzger, Stefan, and Durden, David. 2024 Workshop - Remote Sensing and Fluxes Upscaling for Real-world Impact - Tutorial v1. Computer Software. https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report. USDOE. 14 Apr. 2025. Web. doi:10.11578/dc.20251024.5.
 
 See [License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/LICENSE) and [COPYRIGHT](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/COPYRIGHT) files for licensing details and copyright details.
