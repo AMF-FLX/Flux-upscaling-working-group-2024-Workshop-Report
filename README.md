@@ -48,16 +48,12 @@ This topic focuses on site-scale analysis using remote sensing (RS) data. We wil
     - Aggregating RS and flux time-series data
     - Modeling the relationship between vegetation indices and NEE using a linear model.
 
-See [License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/LICENSE) and [COPYRIGHT](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/COPYRIGHT) files for licensing details and copyright details.
-
 ## Topic 2: ... over regional-scale connectivity ...
 Creators: Micola Falco (nicolafalco@lbl.gov), David Durden (ddurden@battelleecology.org), Stefan Metzger (smetzger@atmofacts.com)  
 
 In Topic 2 of this tutorial, we will explore regional-scale connectivity by:
 - Applying the linear model developed in Topic 1 to estimate Net Ecosystem Exchange (NEE) over a small region, using a straightforward analysis approach
 - Utilizing high-frequency flux spatialization to investigate additional factors influencing NEE in space, time, and process.
-
-See [License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/LICENSE) and [COPYRIGHT](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/COPYRIGHT) files for licensing details and copyright details.
 
 ## Topic 3: ... to continental-scale connectivity
 Creators: Danielle Losos (losos@wisc.edu), Paul Stoy (pcstoy@wisc.edu), Avanti Kekane (avkekane@wisc.edu), Sophie Hoffman (shoffman22@wisc.edu), Sadegh Ranjbar (sranjbar@wisc.edu), Ryan Abernathey (ryan@earthmover.io)
@@ -69,7 +65,7 @@ The tutorial will cover:
 - Leveraging data from the [Advanced Baseline Imager](https://www.goes-r.gov/spacesegment/abi.html) on the [Geostationary Operational Environmental Satellites - R Series (GOES-R)](https://www.goes-r.gov/) to create ALIVE<sub>GPP</sub> for pixels that contain Ameriflux and NEON, Inc. towers as described in [Losos et al. (2024)](https://www.nature.com/articles/s41597-024-03071-z)
 - Using a machine learning model specifically a gradient boosting model described in [Ranjbar et al. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004341), to estimate GPP at the native temporal resolution of the ABI CONUS scene, every 5 minutes, as described in [Losos et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0034425725001634).
 
-# Acknowledgments
+# Acknowledgments, License, and Copyright
 
 This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original repository and contributors.
 
@@ -77,6 +73,8 @@ To acknowledge this repository, please cite it as follows:
 
 ### Topic 1 and 2:
 - Falco, Nicola, Metzger, Stefan, and Durden, David. 2024 Workshop - Remote Sensing and Fluxes Upscaling for Real-world Impact - Tutorial v1. Computer Software. https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report. USDOE. 14 Apr. 2025. Web. doi:10.11578/dc.20251024.5.
+
+See [License](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/LICENSE) and [COPYRIGHT](https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report/blob/main/COPYRIGHT) files for licensing details and copyright details.
 
 ### Topic 3:
 - Losos, D., Hoffman, S. & Stoy, P.C. GOES-R land surface products at Western Hemisphere eddy covariance tower locations. Sci Data 11, 277 (2024). https://doi.org/10.1038/s41597-024-03071-z
