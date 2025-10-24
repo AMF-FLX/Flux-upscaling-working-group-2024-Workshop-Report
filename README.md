@@ -69,4 +69,20 @@ The tutorial will cover:
 - Leveraging data from the [Advanced Baseline Imager](https://www.goes-r.gov/spacesegment/abi.html) on the [Geostationary Operational Environmental Satellites - R Series (GOES-R)](https://www.goes-r.gov/) to create ALIVE<sub>GPP</sub> for pixels that contain Ameriflux and NEON, Inc. towers as described in [Losos et al. (2024)](https://www.nature.com/articles/s41597-024-03071-z)
 - Using a machine learning model specifically a gradient boosting model described in [Ranjbar et al. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004341), to estimate GPP at the native temporal resolution of the ABI CONUS scene, every 5 minutes, as described in [Losos et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0034425725001634).
 
+# Acknowledgments
+
+This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original repository and contributors.
+
+To acknowledge this repository, please cite it as follows:
+
+### Topic 1 and 2:
+- Falco, Nicola, Metzger, Stefan, and Durden, David. 2024 Workshop - Remote Sensing and Fluxes Upscaling for Real-world Impact - Tutorial v1. Computer Software. https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report. USDOE. 14 Apr. 2025. Web. doi:10.11578/dc.20251024.5.
+
+### Topic 3:
+- Losos, D., Hoffman, S. & Stoy, P.C. GOES-R land surface products at Western Hemisphere eddy covariance tower locations. Sci Data 11, 277 (2024). https://doi.org/10.1038/s41597-024-03071-z
+- Ranjbar, S., Losos, D., Hoffman, S., Cuntz, M., & Stoy, P. C. (2024). Using geostationary satellite observations and machine learning models to estimate ecosystem carbon uptake and respiration at half hourly time steps at eddy covariance sites. Journal of Advances in Modeling Earth Systems, 16, e2024MS004341. https://doi.org/10.1029/2024MS004341
+- Losos, D., Ranjbar, S., Hoffman, S., Abernathey, R., Desai, A. R., Otkin, J., Zhang, H., Ryu, Y., & Stoy, P. C. (2025). Rapid changes in terrestrial carbon dioxide uptake captured in near-real time from a geostationary satellite: The ALIVE framework. Remote Sensing of Environment, 324, 114759. https://doi.org/10.1016/j.rse.2025.114759
+
+By acknowledging this repository and its contributors, you help to promote transparency, reproducibility, and recognition of the work that has gone into creating this resource.
+
 
