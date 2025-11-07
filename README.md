@@ -67,7 +67,7 @@ The tutorial will cover:
 - Using a machine learning model specifically a gradient boosting model described in [Ranjbar et al. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004341), to estimate GPP at the native temporal resolution of the ABI CONUS scene, every 5 minutes, as described in [Losos et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0034425725001634).
 
 # Acknowledgments
-## Workshop report
+## Workshop Report
 Falco, N., Durden, D., Metzger, S., Stoy, P., Yi, K., Florian, C., & Barnes, M. (2024). Workshop Report: Remote Sensing and Fluxes Upscaling for Real-world Impact. https://doi.org/10.11578/dc.20251024.5
 
 ## Hands-on Tutorial
