@@ -17,7 +17,7 @@ The repository is organized as follows:
 To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
 
 ### External Resorces 
-- Workshop report [here](https://doi.org/10.11578/dc.20251024.5)
+- Workshop report [here](https://www.osti.gov/biblio/3001093)
 - Datasets created and used in the hands-on session can be also found [here](https://drive.google.com/file/d/1WyAYDHvut789H-oEbO6Lm-ObKP1wlbM5/view?usp=sharing).
 - Recordings of the sessions are available on the [event](https://go.lbl.gov/vy35rp) page of the Ameriflux web portal.  
 
