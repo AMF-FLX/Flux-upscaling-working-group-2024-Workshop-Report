@@ -18,7 +18,7 @@ To run the notebooks, simply open them in Google Colab and follow the instructio
 
 ### External Resorces 
 - Workshop report [here](https://www.osti.gov/biblio/3001093)
-- Datasets created and used in the hands-on session can be also found [here](https://drive.google.com/file/d/1WyAYDHvut789H-oEbO6Lm-ObKP1wlbM5/view?usp=sharing).
+- Datasets created and used in the hands-on session can be found [here](https://drive.google.com/file/d/1WyAYDHvut789H-oEbO6Lm-ObKP1wlbM5/view?usp=sharing).
 - Recordings of the sessions are available on the [event](https://go.lbl.gov/vy35rp) page of the Ameriflux web portal.  
 
 ## Workshop Steering Committee
@@ -67,6 +67,10 @@ The tutorial will cover:
 - Using a machine learning model specifically a gradient boosting model described in [Ranjbar et al. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004341), to estimate GPP at the native temporal resolution of the ABI CONUS scene, every 5 minutes, as described in [Losos et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0034425725001634).
 
 # Acknowledgments
+## Workshop report
+If you use any of the content discussed in the workshop report or tutorial, please cite the following document.
+- Falco, Nicola, Durden, David, Metzger, Stefan, et al., "Workshop Report: Remote Sensing and Fluxes Upscaling for Real-world Impact," (2024), https://doi.org/10.2172/3001093
+
 
 ## Hands-on Tutorial
 This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original repository and contributors.
