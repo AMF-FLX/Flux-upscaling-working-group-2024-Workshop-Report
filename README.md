@@ -75,7 +75,7 @@ This tutorial was developed using resources and data from various sources. If yo
 To acknowledge this repository, please cite it as follows:
 
 #### Topics 1 & 2:
-- Falco, Nicola, Metzger, Stefan, and Durden, David. 2024 Workshop - Remote Sensing and Fluxes Upscaling for Real-world Impact - Tutorial v1. Computer Software. https://github.com/AMF-FLX/Flux-upscaling-working-group-2024-Workshop-Report. USDOE. 14 Apr. 2025. Web. doi:10.11578/dc.20251024.5.
+- Falco, Nicola, Metzger, Stefan, and Durden, David, "2024 Workshop - Remote Sensing and Fluxes Upscaling for Real-world Impact - Tutorial v1," (2025), https://doi.org/10.11578/dc.20251024.5
 
 #### Topic 3:
 - Losos, D., Hoffman, S. & Stoy, P.C. GOES-R land surface products at Western Hemisphere eddy covariance tower locations. Sci Data 11, 277 (2024). https://doi.org/10.1038/s41597-024-03071-z
